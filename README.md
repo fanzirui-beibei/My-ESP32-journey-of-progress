@@ -21,7 +21,7 @@
   
   项目逻辑确实很简单，但只有真正动手做才能学到很多实际中的知识，遇到很多实际中需要克服的困难，我想要的就是遇到这些困难，解决它们也就提升了我的能力。
 
-  附上我的小猫咪在热与不热环境下的小表情。
+  附上我的小猫咪在热与不热环境下的小表情。（ps:应该让它笑的，不然这两个看着都不开心哈哈哈）
   <img width="273" height="208" alt="image" src="https://github.com/user-attachments/assets/89134aac-ef8e-445c-adab-90106c228cab" />
   <img width="241" height="201" alt="image" src="https://github.com/user-attachments/assets/517a0c37-a201-4204-8a7c-c549d9db806a" />
 
