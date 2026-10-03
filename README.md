@@ -26,3 +26,5 @@
   <img width="241" height="201" alt="image" src="https://github.com/user-attachments/assets/517a0c37-a201-4204-8a7c-c549d9db806a" />
 
 
+  我又来更新了，不过这次没有带着作品。
+    我决定要开始一段从原理图设计到打板子再到最终真正做出来一个可交付产品的旅程，过程的持续时间可能会有点长，耐心等待吧！
